@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link
+    href="https://cdn.jsdelivr.net/npm/remixicon@3.2.0/fonts/remixicon.css"
+    rel="stylesheet"
+  />
+  <link rel="stylesheet" href="styles.css" />
+  <title>Web Design Mastery | Responsive Portfolio</title>
+</head>
+<body>
+  <nav>
+    <div class="nav__content">
+      <div class="logo"><a href="#">UMA</a></div>
+      <label for="check" class="checkbox">
+        <i class="ri-menu-line"></i>
+      </label>
+      <input type="checkbox" name="check" id="check" />
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About Me</a></li>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </div>
+  </nav>
+  <section class="section">
+    <div class="section__container">
+      <div class="content">
+        <p class="subtitle">HELLO</p>
+        <h1 class="title">
+          I'm <span>KADAPANA UMA MAHESWARI<br /></span> 
+        </h1>
+        <p class="description">
+          Hello! I'm Kadapana Uma Maheswari, a passionate B.Tech student with a keen interest in web development and technology.
+        </p>
+        <div class="action__btns">
+          <button class="hire__me">Hire Me</button>
+          <button class="portfolio">WELCOME</button>
+        </div>
+      </div>
+      <div class="image">
+        <img src="C:\Users\DELL\Desktop\Uma.jpeg" alt="profile" />
+      </div>
+    </div>
+  </section>
+
+  <section id="skills" class="section">
+    <div class="section__container">
+      <div class="content">
+        <h2 class="section__title">Skills</h2>
+        <ul>
+          <li>HTML</li><br>
+          <li>CSS </li><br>
+          <li>JavaScript </li><br>
+          <li>Python </li><br>
+          <li>DBMS </li><br>
+          <li>C </li><br>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section id="projects" class="section">
+    <div class="section__container">
+      <div class="content">
+        <h2 class="section__title">Projects</h2>
+        <div class="portfolio__item">
+          <h3>Ola bike request demand forecasting</h3>
+          <p>The article aims to apply machine learning techniques to predict ride requests for Ola Bike, similar to other ride-sharing platforms like Uber. By analyzing historical ride data, the objective is to forecast demand patterns for bike rides during specific hours. It addresses the pricing variability, often influenced by demand fluctuations. Through predictive models, the goal is to optimize resource allocation and pricing strategies, enhancing the efficiency of online cab and bike services such as Ola and Uber</p>
+        </div>
+        <div class="portfolio__item">
+          <h3>Email Spam Detection</h3>
+          <p>I've honed data science and machine learning skills to analyze data and construct predictive models. One notable project involved implementing a Naive Bayes algorithm-based spam message classifier. This system significantly bolstered message communication security by accurately identifying and filtering out spam messages. Through this project, I gained practical experience in email spam detection, contributing to the enhancement of communication platforms' security protocols and user experience.p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="contact" class="section">
+    <div class="section__container">
+      <div class="content">
+        <h2 class="section__title">Contact</h2>
+        <p>Email:kadapanabujji014@@gmail.com</p>
+        <p>Phone:7569219637</p>
+        <form action="your_form_processing_script.php" method="post">
+          <label for="name">Name:</label>
+          <input type="text" id="name" name="name" required>
+
+          <label for="email">Email:</label>
+          <input type="email" id="email" name="email" required>
+
+          <label for="message">Message:</label>
+          <textarea id="message" name="message" required></textarea>
+
+          <button type="submit">Send Message</button>
+        </form>
+      </div>
+    </div>
+  </section>
+
+  <footer class="section-footer">
+    <p>Connect with me on <a href="https://www.linkedin.com/in/uma-maheswari-090b25267/">LinkedIn</a> | <a href="https://github.com/maheswari12222">GitHub</a></p>
+  </footer>
+
+</body>
+</html>

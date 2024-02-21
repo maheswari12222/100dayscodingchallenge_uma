@@ -69,5 +69,5 @@ Celebrate your Day 2 achievement on social media! Post on Instagram or LinkedIn,
 
 ## Follow us:
 
-- **Linkedin:** [adithyasaladi](https://www.linkedin.com/in/adithyasaladi/), [bhavya](https://www.linkedin.com/in/bhavyasriy/)
+- **Linkedin:** [Uma Maheswari](https://www.linkedin.com/in/uma-maheswari-090b25267/),[adithyasaladi](https://www.linkedin.com/in/adithyasaladi/), [bhavya](https://www.linkedin.com/in/bhavyasriy/)
 - **Youtube:** [@code.with.aadi79](https://www.youtube.com/@Code.with.aadi79)

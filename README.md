@@ -3,7 +3,7 @@
 
 Hello Coding Enthusiasts!
 
-Welcome to the **100 Days Coding Challenge**, an inclusive journey designed for all, whether you're a seasoned coder or a complete beginner. The main goal is to make coding accessible to everyone
+Welcome to the **100 Days Coding Challenge**, an inclusive journey designed for all, whether you're a seasoned coder or a complete beginner. 
 ## Expected Outcomes:
 
 - 📅 **Weekly Themes:** Each week focuses on a specific theme, with beginner-friendly tasks. We start with mastering Github in Week 1 and gradually explore HTML, CSS, JavaScript, jQuery, Python, and SQL throughout the challenge.

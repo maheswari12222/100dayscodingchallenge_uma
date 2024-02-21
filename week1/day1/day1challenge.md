@@ -80,5 +80,5 @@ Take a moment to celebrate your achievement! Share your Day 1 completion on soci
 
 ## Follow us:
 
-- **Linkedin:**  [adithyasaladi](https://www.linkedin.com/in/adithyasaladi/), [bhavya](https://www.linkedin.com/in/bhavyasriy/)
+- **Linkedin:** [Uma Maheswari](https://www.linkedin.com/in/uma-maheswari-090b25267/),  [adithyasaladi](https://www.linkedin.com/in/adithyasaladi/), [bhavya](https://www.linkedin.com/in/bhavyasriy/)
 - **Youtube:** [@code.with.aadi79](https://www.youtube.com/@Code.with.aadi79)

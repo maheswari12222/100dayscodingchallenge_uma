@@ -68,5 +68,5 @@ Celebrate your Day 3 achievement on social media! Post on Instagram or LinkedIn,
 
 ## Follow us:
 
-- **Linkedin:** [Thirumala.Sai.Harsha Inumarthi](https://www.linkedin.com/in/saiharsha3377), [adithyasaladi](https://www.linkedin.com/in/adithyasaladi/), [bhavyasriy](https://www.linkedin.com/in/bhavyasriy/)
+- **Linkedin:** [Thirumala.Sai.Harsha Inumarthi](https://www.linkedin.com/in/saiharsha3377), [adithyasaladi](https://www.linkedin.com/in/adithyasaladi/), [bhavyasriy](https://www.linkedin.com/in/bhavyasriy/),[Uma Maheswari](https://www.linkedin.com/in/uma-maheswari-090b25267/)
 - **Youtube:** [@code.with.aadi79](https://www.youtube.com/@Code.with.aadi79)

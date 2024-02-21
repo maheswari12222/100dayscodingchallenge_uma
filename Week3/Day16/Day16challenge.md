@@ -205,5 +205,5 @@ Day 16/100 - Another productive day in my coding journey! 🚀 I've just leveled
 
 ## Follow us:
 - **Instagram:** [code.with.aadi](https://www.instagram.com/code.with.aadi/)
-- **LinkedIn:** [adithyasaladi](https://www.linkedin.com/in/adithyasaladi/), [bhavyasriy](https://www.linkedin.com/in/bhavyasriy/)
+- **LinkedIn:** [Uma Maheswari](https://www.linkedin.com/in/uma-maheswari-090b25267/),  [adithyasaladi](https://www.linkedin.com/in/adithyasaladi/), [bhavyasriy](https://www.linkedin.com/in/bhavyasriy/)
 - **YouTube:** [@code.with.aadi79](https://www.youtube.com/@Code.with.aadi79)

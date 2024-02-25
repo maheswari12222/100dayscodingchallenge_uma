@@ -149,5 +149,5 @@ ES6 classes offer a cleaner, more intuitive syntax for object creation and inher
 
 ## Follow us:
 - **Instagram:** [code.with.aadi](https://www.instagram.com/code.with.aadi/)
-- **LinkedIn:** [adithyasaladi](https://www.linkedin.com/in/adithyasaladi/), [bhavyasriy](https://www.linkedin.com/in/bhavyasriy/),[Uma Maheswari](https://www.linkedin.com/in/uma-maheswari-090b25267/]
+- **LinkedIn:** [adithyasaladi](https://www.linkedin.com/in/adithyasaladi/), [bhavyasriy](https://www.linkedin.com/in/bhavyasriy/),[Uma Maheswari](https://www.linkedin.com/in/uma-maheswari-090b25267/), 
 - **YouTube:** [@code.with.aadi79](https://www.youtube.com/@Code.with.aadi79)

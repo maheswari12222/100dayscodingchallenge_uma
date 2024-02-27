@@ -1,0 +1,24 @@
+.gallery {
+    width: 50%;
+    margin: 0 auto;
+}
+
+#main-img {
+    width: 500px;
+    height: 500px;
+    display: block;
+    margin-bottom: 20px;
+    object-fit: cover;
+}
+
+.thumbnails {
+    display: flex;
+    justify-content: space-between;
+}
+
+.thumbnail {
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    object-fit: cover;
+}

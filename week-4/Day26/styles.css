@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    padding: 20px;
+}
+
+#blog-post {
+    background-color: #ffffe0; /* light yellow */
+    padding: 20px;
+    border-radius: 5px;
+    border: 10px groove yellowgreen;
+}
+
+h1 {
+    color: orange;
+}
+
+h2 {
+    color: #333;
+}
+
+p {
+    color: black;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    display: inline-block;
+    margin-right: 10px;
+    color: white;
+    background-color: #5C6BC0;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
